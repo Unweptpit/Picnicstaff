@@ -1,0 +1,24 @@
+main: me.Unweptpit.Picnicstaff.PicnicStaff
+name: Picnicstaff
+version: 1.0
+author: Unweptpit
+api: 1.16
+
+commands:
+  Adminchat:
+    description: Adminchat for talking to admins only
+    aliases: [ac]
+ 
+  Staffchat:
+    description: Staffchat for talking to staff only
+    aliases: [sc]
+    
+  Picnicstaff:
+  
+  Getinfo:
+    description: returns information about the player
+  
+  Staffmode:
+    description: toggles staffmode
+    aliases: [sm]
+  

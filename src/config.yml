@@ -1,0 +1,30 @@
+permissions:
+  reload: "&8[&cPicnicStaff&8] &fReloaded!"
+  nopermission: "&8[&dPicnicSMP&8] &4You do not have permission!"
+  permissionAdminchat: "Picnicstaff.admitchat"
+  permissionStaffchat: "Picnicstaff.staffchat"
+  permissionXray: "Picnicstaff.noXray"
+  permissionStaff: "Picnicstaff.staff"
+  permissionGetinfo: "Picnicstaff.getinfo"
+  permissionStaffmode: "Picnicstaff.staffmode"
+  permissionExamineIp: "Picnicstaff.examineIp"
+  
+Blocks:
+  - DIAMOND_ORE
+  - GOLD_ORE
+  - LAPIS_ORE
+  - REDSTONE_ORE
+  - EMERALD_ORE
+  - COAL_ORE
+  - IRON_ORE
+  - GLOWING_REDSTONE_ORE
+
+Names:
+  DIAMOND_ORE: "&bDiamond ore"
+  GOLD_ORE: "&eGold ore"
+  LAPIS_ORE: "&1Lapis ore"
+  REDSTONE_ORE: "&4Redstone ore"
+  GLOWING_REDSTONE_ORE: "&4Redstone ore"
+  EMERALD_ORE: "&aEmerald ore"
+  COAL_ORE: "&7Coal Ore"
+  IRON_ORE: "&6Iron Ore"
